@@ -1,0 +1,116 @@
+#buttonAddNew{
+    background-color: #e7f316;
+    font-weight: bold;
+    min-height: 40px;
+    font-size: larger;
+    border-radius: 40pd;
+    
+}
+
+#buttonAddNew2{
+    background-color: darkgray;
+    margin-right: 30px;
+    min-height: 40px;
+    font-size: larger;
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+#buttonAddNew2:hover{
+    background-color:aliceblue;
+}
+
+#buttonAddNew:hover{
+    background-color: #ecf0af;
+}
+#inputs{
+    margin-left: 1rem;
+    background-color: #f0f3f0;
+   
+}
+#buttonAdd{
+    float: left;
+    height: 40px;
+    background-color: #09fc1d;
+    font-weight: bold;
+   
+}
+#buttonAdd:hover{
+    background-color: #7be784;
+}
+tbody tr:hover{
+background-color:rgb(182, 228, 228);
+}
+
+
+#buttonCancel{
+    float: right;
+    height: 40px;
+    background-color: #fc0909;
+    font-weight: bold;
+   
+}
+#buttonCancel:hover{
+    background-color: #ed6767;
+}
+#th2rem{
+    width: 2rem;
+}
+#th8rem{
+    width: 20rem;
+}
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+#fondo{
+    height: 100vh;
+    width: 1500px;
+    text-align: center;
+}
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+body{
+    background-image: url(TESJII.PNG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: #f0f3f0;
+}
+
+.imagen2{
+    text-align: center;
+}
+
+.imagen{
+    width: "1500px";
+    height: "500px";
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+.imagen:hover{
+    border-radius: 20px;
+    -webkit-border-radius: 20px #eee;
+    filter: opacity(.5);
+}
+
+.contenido{
+    background-color: black;
+}
+
+p{
+    color: #f0f3f0;
+}
+    
